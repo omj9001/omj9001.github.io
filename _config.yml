@@ -1,15 +1,15 @@
 # Configurations
 title:            About Me
-longtitle:        Jonghyun Yoon Gitbook
-author:           Jonghyun Yoon
-email:            starrything@gmail.com
+longtitle:        Myungjin Oh Gitbook
+author:           Myungjin Oh
+email:            omj9001@gmail.com
 description: >
   Build Jekyll site with the GitBook style. (forked from https://sighingnow.github.io/jekyll-gitbook)
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://starrything.github.io'
+url:              'https://omj9001.github.io'
 baseurl:          ''
 rss:              RSS
 
