@@ -10,4 +10,4 @@ layout: home
 
 업무에 적용되거나 적용할 모듈 단위로 Git Repository를 업데이트 하고 있습니다. 📏📐
 
-**다양한 생태계의 기술을 공부하는 공간 -> https://github.com/omj9001?tab=repositories
+**다양한 생태계의 기술을 공부하는 공간 -> https://github.com/omj9001?tab=repositories [omaeng`s repo](https://github.com/omj9001?tab=repositories, "repo link")
